@@ -4,7 +4,6 @@ Endereço: Caractere
 Cidade: Caractere
 CPF: Real
 RG: Inteiro
-
 Inicio
 Escreva ("Sistema de gestao, por favor diga-me seu nome.", Nome)
 Leia(nome)
